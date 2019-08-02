@@ -18,3 +18,5 @@ The Dataset I will work with is the FOOD101 dataset.
 Objective:
 
 Our goal is to build an accurate Model that will be able to recognize and classify correctly images of different categories of food, like Hamburgers, Apple pies.
+
+Please go to the jupyter Notebook file to review full experiement.
